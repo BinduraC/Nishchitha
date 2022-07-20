@@ -16,6 +16,7 @@ public class ClassTest {
 
 		System.out.println("child change");
 		System.out.println("kid change");
+		//sd
 	}
 
 }
