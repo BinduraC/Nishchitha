@@ -13,7 +13,7 @@ public class ClassTest {
 
 		System.out.println("Confiansa to master");
 		System.out.println("child change");
-		System.out.println("kid change");//hi
+		System.out.println("kid change today");//hi
 	}
 
 }
