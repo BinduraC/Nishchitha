@@ -12,8 +12,12 @@ public class ClassTest {
 		Reporter.log("test4", true);
 
 		System.out.println("Confiansa to master");
+		System.out.println("child change");//hi
+
 		System.out.println("child change");
 		System.out.println("kid change today ");//hi
+		System.out.println("kid change");
+		//sd
 	}
 
 }
