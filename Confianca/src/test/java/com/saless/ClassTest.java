@@ -23,5 +23,11 @@ public class ClassTest {
 		//sd
 
 	}
+	
+	@Test
+	public void class2Test() {
+		Reporter.log("in class2Test()", true);
+		System.out.println("Hello");
+	}
 
 }
